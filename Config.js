@@ -10,37 +10,37 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01',  // Do not change
 }
-global.owner = ['+94711502119'] //👈  Enter Your number)
-global.premium = ['+94711502119'] // 👈  Enter Your number)
+global.owner = ['+265889976968'] //👈  Enter Your number)
+global.premium = ['+265889976968'] // 👈  Enter Your number)
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = (`- *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
-*I am a Learning.*
+*Kingsley-bot Ξ*
+*I am a 16 years old developer...*
+*From malawi*
+*I am still  Learning.*
 *Not more..*
 *Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`)  // 👈 Enter Your details and Social Media Links and Anything
-global.ownernomer = '+94711502119' //👈 Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲ ＦＩＥＬＤ ＢＯＴ ｖ8.2' //👈 Enter Your Bot name
-global.footer = 'Coded by Tharindu Liyanage' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
-global.region = 'India' // 👈 Enter Your country
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
-global.myweb = 'https://www.facebook.com/garfieldbots/' // 👈 Enter your Social media link to follow now button
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+*Follow My Facebook - https://www.facebook.com/Ife Kingsley Kingsley chimalizeni*`)  // 👈 Enter Your details and Social Media Links and Anything
+global.ownernomer = '+265889976968' //👈 Enter Your number
+global.ownername = 'Kingsley' //👈 Enter Your name
+global.botname = 'kingsley-bot ｖ8.2' //👈 Enter Your Bot name
+global.footer = 'Coded by kingsley' //👈 Enter Your Name
+global.ig = 'https://github.com/ife250/GARFIELD-WHATSAPP-BOT-v8'
+global.region = 'South Africa' // 👈 Enter Your country
+global.sc = 'https://github.com/ife250/GARFIELD-WHATSAPP-BOT-v8'
+global.myweb = 'https://github.com/ife250' // 👈 Enter your Social media link to follow now button
+global.packname = 'Kingsley-BOTv8'  // 👈 You Can change this your choice 
+global.author = 'Kingsley DEVELOPMENT' // 👈 You Can change this your choice 
 global.sessionName = 'session'  // 👈 You Can change this your choice 
 global.prefa = '','!','.'  // 👈 You Can change this your choice 
-global.sp = 'ZENOI'  // 👈 You Can change this your choice 
+global.sp = 'kingsley'  // 👈 You Can change this your choice 
 
 global.mess = {
     success: 'Done 🐼', //👈 Use these in your language of choice
     admin: 'This Feature Is Only For Admin!', // 👈 Use these in your language of choice
     botAdmin: 'Bot Must Be Admin First!', // 👈 Use these in your language of choice
-    owner: 'This Feature Is Only For Owner!', // 👈 Use these in your language of choice
+    owner: 'This Feature Is Only For Kingsley🤖!', // 👈 Use these in your language of choice
     group: 'Feature Used Only For Groups!', //👈 Use these in your language of choice
     private: 'Features Used Only For Private Chat!', // 👈 Use these in your language of choice
     bot: 'This Feature Is Only For Bot', //👈 Use these in your language of choice
