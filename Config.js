@@ -15,7 +15,7 @@ global.premium = ['+265889976968'] // 👈  Enter Your number)
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = (`- *Hi 🥰 I m*
-*Kingsley-bot Ξ*
+*Kingsley Ξ*
 *I am a 16 years old developer...*
 *From malawi*
 *I am still  Learning.*
